@@ -1,0 +1,44 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+#fridge-image{
+
+	height:600px;
+	width:900px;
+	background: url("fridge1.jpg") no-repeat;
+	margin-top:20px;
+	}
+	#btns{
+		margin-left:170px;
+		margin-top:10px;
+	}
+
+.letter{
+	width:30px;
+	height:30px;
+	border-style:solid;
+	padding:2px;
+	float:left;
+	margin:2px;
+	}
+
+#display{
+	width:250px;
+	height:500px;
+	padding:20px;
+	float:left;
+	margin:2px;
+	margin-left:175px;
+
+
+}
+
+	#clear{
+		height:30px;
+		padding:2px;
+		margin:2px;
+		border-style:solid;
+	}
